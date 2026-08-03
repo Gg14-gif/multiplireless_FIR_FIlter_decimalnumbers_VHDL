@@ -5,3 +5,4 @@ but the sum of the numbers should always equal 1 because otherwise we get weird 
 - It is a low pass.
 - I generated the test bench with AI so i will not include it since its not mine
 -!1 bit input 18 bit output!
+-The first D flip flop (d0 ,q0)is there so that we will not get any timing issues it is for safety.
