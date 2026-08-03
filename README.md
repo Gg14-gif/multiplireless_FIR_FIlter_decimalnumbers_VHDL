@@ -1,5 +1,5 @@
 # multiplireless_FIR_FIlter_VHDL
-This is a FIR filter that is multiplireless. It is simply an exercise it does not work.
+This is a FIR filter that is multiplireless. It is simply an exercise.
  I should have choosen different numbers to multiply with I choose  1 , 0.9 , 0.8 , 0.7
  but the sum of the numbers should always equal 1 because otherwise we get weird numbers
  It is a low pass
