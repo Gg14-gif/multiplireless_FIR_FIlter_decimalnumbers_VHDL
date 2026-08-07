@@ -6,5 +6,7 @@ but the sum of the numbers should always equal 1 because otherwise we get weird 
 - I generated the test bench with AI so i will not include it since its not mine
 - !1 bit input 18 bit output!
 - The first D flip flop (d0 ,q0)is there so that we will not get any timing issues it is for safety.
-
+- 
+- I looked on the code again it is not entirely multiplireless bbecause when i multiplied with 205 i waste hardware i should split it in
+  128 + 64 + 8 + 4 +1
 
